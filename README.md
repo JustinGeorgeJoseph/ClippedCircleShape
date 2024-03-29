@@ -29,6 +29,9 @@ dependencyResolutionManagement {
 	}
 ```
 And add a dependency code to your **module**'s `build.gradle` file.
+
+[![](https://jitpack.io/v/JustinGeorgeJoseph/ClippedCircleShape.svg)](https://jitpack.io/#JustinGeorgeJoseph/ClippedCircleShape)
+
 ```
 dependencies {
     implementation 'com.github.JustinGeorgeJoseph:ClippedCircleShape:Tag'
