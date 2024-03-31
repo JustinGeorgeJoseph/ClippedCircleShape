@@ -3,6 +3,7 @@
 
 [![](https://jitpack.io/v/JustinGeorgeJoseph/ClippedCircleShape.svg)](https://jitpack.io/#JustinGeorgeJoseph/ClippedCircleShape)
 
+[Medium blog](https://medium.com/@adhijustin007/fun-with-the-circle-shape-in-compose-c17f6dac3b82)
 
 <p align="center"><img src="/demo/sample.png"/></p>
 
